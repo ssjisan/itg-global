@@ -7,9 +7,9 @@ import {
   ThemeProvider as MUIThemeProvider,
 } from "@mui/material/styles";
 
-import { overrides } from "./overrides";
+import { overrides } from "./Overrides";
 import { palette } from "./Palette";
-import { typography } from "./typography";
+import { typography } from "./Typography";
 
 // ----------------------------------------------------------------------
 
