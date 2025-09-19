@@ -1,12 +1,12 @@
 import { Box } from "@mui/material";
 import HeroSection from "../Components/Home/HeroSection";
-import ChatwootWidget from "../Components/ChatWoot/ChatWoot";
+import Whatsapp from "../Components/Whatsapp/Whatsapp";
 
 export default function Home() {
   return (
     <Box>
       <HeroSection />
-      <ChatwootWidget />
+      <Whatsapp />
     </Box>
   );
 }

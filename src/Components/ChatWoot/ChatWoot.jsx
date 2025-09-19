@@ -26,7 +26,7 @@ const ChatwootWidget = () => {
     }
   }, []);
 
-  return null; // This component doesn't render anything
+  return null;
 };
 
 export default ChatwootWidget;
